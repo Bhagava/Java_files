@@ -11,5 +11,6 @@ public class Fbonacci{
 			first = scenod;
 			second = c;
 		}
+		System.out.println(last);
 	}
 }
